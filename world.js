@@ -2,6 +2,7 @@ window.onload = function(){
     var lookup = document.getElementById("lookup");
     var lookupcity = document.getElementById("lookupcities");
     console.log(lookupcity);
+    // console.log(lookup);
     var resultArea = document.getElementById("result");
     console.log(resultArea);
     var country = document.querySelector("input");
